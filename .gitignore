@@ -3,5 +3,6 @@ node_modules
 pnpm-lock.yaml
 
 # Firebase
+.firebase
 .firebaserc
 firebase.json
